@@ -1,12 +1,19 @@
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.linkedin.com/in/khashaba/)
+[![Header](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)](https://www.linkedin.com/in/khashaba/)
 
 ##### Hi, I'm Ahmed you can call me Khashaba (Woody):
+- 💊 Javascript addict
+- 👮‍♂️ TypeScript inspector
+- 😍 Angular Lover
+- 🐛 Bug Squasher
+- 🤔 Problem solver (sometimes maker 😁)
+- 🤖 Automator
+- 🙋‍♂️ Question asker
+- 💬 Knowledge sharer
 
-- 🎓  computer science graduate from Helwan University - Egypt
-- :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
-- 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
-- :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
-- :mailbox: You can reach me with the links below
+
+My passion for technology and art is what drives me, and inspires me to develop state-of-art applications that focus on user experience.
+I like to work on challenging problems, especially ones that touch people's lives.
+
 
 ![Twitter](https://img.shields.io/twitter/follow/khashaba_?label=Follow&style=social)
 [![Outlook](https://img.shields.io/badge/-email-D14836?style=for-the-badge&logo=email&logoColor=white)](mailto:ahmedkhashaba@hotmail.com)
