@@ -1,6 +1,6 @@
 [![Header](https://github.com/khashaba/khashaba/blob/master/ak.gif)](https://www.linkedin.com/in/khashaba/)
 
-##### Hi, I'm Ahmed you can call me Khashaba (Woody):
+##### Hi, I'm Ahmed you can call me Khashaba:
 - 💊 Javascript addict
 - 👮‍♂️ TypeScript inspector
 - 😍 Angular Lover
