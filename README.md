@@ -8,6 +8,8 @@ I started out building frontends with Angular, and the building part never reall
 
 Things I've learned to care about over the years: choosing what not to test, keeping suites fast enough that nobody is tempted to skip them, and writing failure messages a tired human can act on.
 
+On AI: I use it every day, both to write code and inside the things I build. It has made producing code cheap, and that quietly made verifying it the expensive part. I think that moves QA closer to the center of the work, not further from it. Testing AI features themselves, where the output is never the same twice, is some of the most interesting test design I've gotten to do.
+
 **Day to day:** TypeScript · JavaScript · Java · SQL · Playwright · Cypress · Angular · Docker · Kubernetes · GitHub Actions
 
 Amsterdam · [LinkedIn](https://www.linkedin.com/in/khashaba/) · [Email](mailto:ahmedkhashaba@hotmail.com)
