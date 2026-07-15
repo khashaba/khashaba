@@ -2,14 +2,14 @@
 
 ### Hi, I'm Ahmed. Most people call me Khashaba.
 
-QA automation engineer in Amsterdam. Quality is the job title, code is how I do it.
+I'm a QA automation engineer living in Amsterdam. My job is making sure software works before real people find out it doesn't. In practice that means writing a lot of code: end-to-end and API test suites in Playwright and Cypress, almost always in TypeScript, wired into CI so the team hears about problems from a pipeline instead of a customer.
 
-**The QA side.** I design test strategy and build the automation behind it: end-to-end suites in Playwright and Cypress, API tests, and CI pipelines where a red build means a real bug, not a flaky selector. I care about the unglamorous parts. What not to test. Keeping suites fast. Making a failure readable at 9am before coffee.
+I started out building frontends with Angular, and the building part never really left me. Testing is where I turned out to be most useful, but I still write software for myself in the evenings. Lately that's a personal finance app (Next.js, TypeScript, Postgres) that my own bank statements run through, so the test suite matters more than usual.
 
-**The coding side.** Test automation is software engineering, and I like the engineering part too much to stop there. I came up through Angular and TypeScript, and I still build things end to end. Current side project: a personal finance app (Next.js, TypeScript, Postgres). It has its own Playwright suite, because of course it does.
+Things I've learned to care about over the years: choosing what not to test, keeping suites fast enough that nobody is tempted to skip them, and writing failure messages a tired human can act on.
 
-**Toolbox:** TypeScript · JavaScript · Java · SQL · Playwright · Cypress · Angular · Docker · Kubernetes · GitHub Actions
+**Day to day:** TypeScript · JavaScript · Java · SQL · Playwright · Cypress · Angular · Docker · Kubernetes · GitHub Actions
 
-📍 Amsterdam · [LinkedIn](https://www.linkedin.com/in/khashaba/) · [Email](mailto:ahmedkhashaba@hotmail.com)
+Amsterdam · [LinkedIn](https://www.linkedin.com/in/khashaba/) · [Email](mailto:ahmedkhashaba@hotmail.com)
 
 <!-- wi*quL3fcV -->
