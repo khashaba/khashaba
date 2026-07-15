@@ -1,3 +1,5 @@
+[![Header](https://github.com/khashaba/khashaba/blob/master/ak.gif)](https://www.linkedin.com/in/khashaba/)
+
 ### Hi, I'm Ahmed. Most people call me Khashaba.
 
 QA automation engineer in Amsterdam. Quality is the job title, code is how I do it.
